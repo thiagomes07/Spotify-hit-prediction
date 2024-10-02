@@ -21,7 +21,7 @@ A indústria musical é altamente competitiva, e prever o sucesso de uma música
 ```
 Spotify-hit-prediction/
 │
-├── README.md                      # Documentação do projeto
+├── README.md                      # Resumo do projeto
 ├── best_model.ipynb               # Notebook Jupyter
 ├── data/                          # Conjuntos de dados .csv
 ├── models/                        # Modelos treinados e salvos
